@@ -19,10 +19,10 @@
 
 ---
 
-I started in electrochemical materials research, moved into software engineering, and am now preparing for PhD applications in materials science / chemical engineering. The thread I keep coming back to is battery-interface data: cycling curves, coatings, electrolytes, characterization, and all the small reporting details that decide whether two experiments can actually be compared.
+I started in electrochemical materials research, moved into software engineering, and am focus on materials science / chemical engineering. 
 
 - Earlier research: Zn-ion batteries, ALD-coated metal anodes, aqueous electrolytes, cycling behavior, and XAS-supported interface analysis
-- Software work: 4+ years as an SDE at Amazon, mostly around telemetry, alarms, monitoring, and automated mitigation
+- Software work: 4+ years as an SDE at Amazon, mostly around telemetry, alarms, monitoring, automated mitigation, and internal AI tool
 - Current side projects: battery literature mining, small-data ML for ALD/Zn-battery papers, and tools for reading papers without losing the trail
 
 ## Featured Projects

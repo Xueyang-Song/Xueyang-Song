@@ -32,7 +32,7 @@ Star badges update automatically.
 | Project | Stars | Why it is here |
 | --- | ---: | --- |
 | [paper-pilot](https://github.com/Xueyang-Song/paper-pilot) | ![stars](https://img.shields.io/github/stars/Xueyang-Song/paper-pilot?style=flat&label=%E2%98%85) | A paper-reading tool I built because keeping track of papers gets messy fast |
-| [JitHubV2](https://github.com/JitHubApp/JitHubV2) | ![stars](https://img.shields.io/github/stars/JitHubApp/JitHubV2?style=flat&label=%E2%98%85) | A Windows GitHub client; mostly here to show I can build real software, not only notebooks |
+| [JitHubV2](https://github.com/JitHubApp/JitHubV2) | ![stars](https://img.shields.io/github/stars/JitHubApp/JitHubV2?style=flat&label=%E2%98%85) | A Windows GitHub client |
 | [academia-ml](https://github.com/Xueyang-Song/academia-ml) | ![stars](https://img.shields.io/github/stars/Xueyang-Song/academia-ml?style=flat&label=%E2%98%85) | Small experiments around academic text, paper structure, and research-data cleanup |
 | [machine-learning-ald-zinc-battery](https://github.com/Xueyang-Song/machine-learning-ald-zinc-battery) | ![stars](https://img.shields.io/github/stars/Xueyang-Song/machine-learning-ald-zinc-battery?style=flat&label=%E2%98%85) | Small-data ML around ALD-coated Zn-anode papers; more about leakage checks than flashy accuracy |
 | [battery-paper-crawler](https://github.com/Xueyang-Song/battery-paper-crawler) | ![stars](https://img.shields.io/github/stars/Xueyang-Song/battery-paper-crawler?style=flat&label=%E2%98%85) | A conservative crawler for battery/electrochemistry papers, with logs so runs are inspectable |
